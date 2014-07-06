@@ -29,7 +29,6 @@ function AddImages(){
 					}),
 				$img;
 				
-				
 			if (
 					href
 					&& !inArray( href, linkList )
